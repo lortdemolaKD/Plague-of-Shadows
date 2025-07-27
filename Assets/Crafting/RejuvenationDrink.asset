@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b60db832e682f94daa969e7c3e8fb44, type: 3}
+  m_Name: RejuvenationDrink
+  m_EditorClassIdentifier: 
+  inputItems:
+  - item: {fileID: 11400000, guid: 2ccb4356b48e16f4c80a29ac8d79bd4c, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: fef0db7129d6f1446b82183fefbc887d, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: f8bd5cc42855eb54e8509c9519c20c49, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 8ce6bbd1d98afd0459f5d40aac2065c6, type: 2}
+    quantity: 1
+  outputItem:
+    item: {fileID: 11400000, guid: eb3a1d19673b87e48b7e5d6f3326bea0, type: 2}
+    quantity: 1

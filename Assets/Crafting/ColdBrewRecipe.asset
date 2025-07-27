@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b60db832e682f94daa969e7c3e8fb44, type: 3}
+  m_Name: ColdBrewRecipe
+  m_EditorClassIdentifier: 
+  inputItems:
+  - item: {fileID: 11400000, guid: 025cacdd7a3c8224ea249a6a939c1cfb, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 9aaffc7de0dd21b4e8e4300e0a19a3b9, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 14ea037dc3174564d9ebe52cd2242d9d, type: 2}
+    quantity: 1
+  outputItem:
+    item: {fileID: 11400000, guid: f06911754515d174e822290b9a4322ea, type: 2}
+    quantity: 1

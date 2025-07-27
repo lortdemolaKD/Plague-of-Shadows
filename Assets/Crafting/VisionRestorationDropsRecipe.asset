@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b60db832e682f94daa969e7c3e8fb44, type: 3}
+  m_Name: VisionRestorationDropsRecipe
+  m_EditorClassIdentifier: 
+  inputItems:
+  - item: {fileID: 11400000, guid: 883f810f94e62f049be2dc780cf0aca7, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 025cacdd7a3c8224ea249a6a939c1cfb, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: f8bd5cc42855eb54e8509c9519c20c49, type: 2}
+    quantity: 1
+  outputItem:
+    item: {fileID: 11400000, guid: 50edb6b533a940345a404c8cb1f4e0af, type: 2}
+    quantity: 1
