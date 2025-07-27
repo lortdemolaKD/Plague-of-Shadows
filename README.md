@@ -38,3 +38,5 @@ F - Interact (pickup object)
 escape - settings
 
 Remember go to home....
+
+GDD: [GDD game development documination](https://docs.google.com/document/d/1X_LPtpFXmbl7i4s7UFomjm_DI-bYN-sgY3wLdFPPT3U/edit?tab=t.0#heading=h.lr899156xjnx)
